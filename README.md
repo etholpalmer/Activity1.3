@@ -1,8 +1,13 @@
-# Who are you?
+# About me
+
+## Who are you?
+
 Ethol Palmer Movie Watcher
 
-# Career Goals
+## Career Goals
+
 Ethol Palmer FinTech Guru
 
-# Why FinTech
+## Why FinTech?
+
 Skill => New
