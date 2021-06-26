@@ -11,3 +11,6 @@ Ethol Palmer FinTech Guru
 ## Why FinTech?
 
 Skill => New
+
+
+## Why not FinTech
