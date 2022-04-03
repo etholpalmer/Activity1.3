@@ -2,11 +2,11 @@
 
 ## Who are you?
 
-Ethol Palmer Movie Watcher
+Ethol Palmer FinTech Guru
 
 ## Career Goals
 
-Ethol Palmer FinTech Guru
+Business Leader in Systems Design
 
 ## Why FinTech?
 
